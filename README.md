@@ -9,6 +9,8 @@ Jeff currently presents on the following services.  Choose the one that works fo
 * [Twitch](https://twitch.tv/csharpfritz)
 * [Mixer](https://mixer.com/csharpfritz)
 
+You can find his current schedule on both services, and if you follow or subscribe to the channel you will be notified when the stream begins. 
+
 ## Watch recordings
 
 Archive of all shows from the stream can be found on [Jeff's YouTube Fritz and Friends](https://www.youtube.com/playlist?list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy)  playlist.
@@ -19,3 +21,10 @@ If you want to know more about something or want to see a demo of something spec
 
 The list of [currently outstanding questions](https://github.com/csharpfritz/Fritz.LiveStream/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion+sort%3Acreated-asc) is available.  When questions are answered, they are closed and links are added to the wrap-up blog post for the stream they were answered in.
 
+## Current Projects
+
+Jeff has been working on the following projects on stream:
+
+* [Fritz.ConfigurationBuilders](https://github.com/csharpfritz/Fritz.ConfigurationBuilders) - A collection of ConfigurationBuilders for .NET 4.7.1 and later that support loading application configuration from other sources include INI, YML, and RSS
+* [Fritz.EpicBuildMusic](https://github.com/csharpfritz/Fritz.EpicBuildMusic) - A Visual Studio extension that is designed to make working in Visual Studio a little more fun.
+* [Fritz.Rundown](https://github.com/csharpfritz/Fritz.Rundown) - An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content  
