@@ -13,8 +13,6 @@ Jeff currently presents on the following services.  Choose the one that works fo
 
 Archive of all shows from the stream can be found on [Jeff's YouTube Fritz and Friends](https://www.youtube.com/playlist?list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy)  playlist.
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 ## Ask Questions
 
 If you want to know more about something or want to see a demo of something specific, you can ask Jeff by [opening an issue](https://github.com/csharpfritz/Fritz.LiveStream/issues/new) and adding the 'Question' label. 
