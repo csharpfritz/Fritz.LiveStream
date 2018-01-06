@@ -28,3 +28,7 @@ Jeff has been working on the following projects on stream:
 * [Fritz.ConfigurationBuilders](https://github.com/csharpfritz/Fritz.ConfigurationBuilders) - A collection of ConfigurationBuilders for .NET 4.7.1 and later that support loading application configuration from other sources include INI, YML, and RSS
 * [Fritz.EpicBuildMusic](https://github.com/csharpfritz/Fritz.EpicBuildMusic) - A Visual Studio extension that is designed to make working in Visual Studio a little more fun.
 * [Fritz.Rundown](https://github.com/csharpfritz/Fritz.Rundown) - An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content  
+
+## Jeff's Setup
+
+Jeff has written about how he has the hardware configured as well as the software to produce stream [on his blog](http://jeffreyfritz.com/2017/12/live-streaming-101-my-setup/).
