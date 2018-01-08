@@ -27,7 +27,12 @@ Jeff has been working on the following projects on stream:
 
 * [Fritz.ConfigurationBuilders](https://github.com/csharpfritz/Fritz.ConfigurationBuilders) - A collection of ConfigurationBuilders for .NET 4.7.1 and later that support loading application configuration from other sources include INI, YML, and RSS
 * [Fritz.EpicBuildMusic](https://github.com/csharpfritz/Fritz.EpicBuildMusic) - A Visual Studio extension that is designed to make working in Visual Studio a little more fun.
-* [Fritz.Rundown](https://github.com/csharpfritz/Fritz.Rundown) - An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content  
+* [Fritz.StreamTools](https://github.com/csharpfritz/Fritz.StreamTools) - (Formerly called RunDown) An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content.
+
+## Guests
+
+I enjoy having guests join me for some pair-programming, because we're always going to learn something new together.  More information
+about my scheduled guests can how you can join me as a guest on the stream can be found on the [guests page](Guests.md).
 
 ## Jeff's Setup
 
