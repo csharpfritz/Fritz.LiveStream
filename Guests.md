@@ -4,7 +4,7 @@ The following are a list of scheduled guests along with their projected date and
 
 | Guest | Date | Topic |
 | ----- | ---- | ----- |
-| Glenn Condron | Jan 11, 2018 | ASP.NET Core + Docker |
+| Glenn Condron | Rescheduled | ASP.NET Core + Docker |
 | Sarah Dutkiewicz | After Jan 14, 2018 | Web Usability |
 
 ## Interested Guests
