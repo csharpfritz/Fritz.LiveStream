@@ -8,6 +8,7 @@ The following are a list of scheduled guests along with their projected date and
 | Maira Wenzel | Jan 25, 2018 | Documentation and docs.microsoft.com |
 | Sarah Dutkiewicz | Jan 27, 2018 | Web Usability |
 | Oren Novotny | Feb 15, 2018 | .NET Standard and PCLs |
+| Maria Naggaga | Feb 17, 2018 | Try.NET |
 
 ## Interested Guests
 
