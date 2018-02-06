@@ -36,4 +36,5 @@ about my scheduled guests can how you can join me as a guest on the stream can b
 
 ## Jeff's Setup
 
-Jeff has written about how he has the hardware configured as well as the software to produce stream [on his blog](http://jeffreyfritz.com/2017/12/live-streaming-101-my-setup/).
+Jeff has written about how he has the hardware configured as well as the software to produce stream [on his blog](http://jeffreyfritz.com/2017/12/live-streaming-101-my-setup/).  
+*  Jeff uses [Posh-Git](https://github.com/dahlbyk/posh-git) to make the Powershell prompt easier to navigate while working with Git repositories 
