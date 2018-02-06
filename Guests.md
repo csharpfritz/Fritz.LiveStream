@@ -9,6 +9,7 @@ The following are a list of scheduled guests along with their projected date and
 | Sarah Dutkiewicz | Jan 27, 2018 | Web Usability |
 | Brendan Enrick | Feb 8, 2017 | Unit Testing |
 | Oren Novotny | Feb 15, 2018 | .NET Standard and PCLs |
+| WORKSHOP | Feb 16, 2018 | INTRODUCTION TO ASP.NET CORE WORKSHOP |
 | Maria Naggaga | Feb 17, 2018 | Try.NET |
 | Rich Ross | Feb 20, 2018 | Azure Cognitive Services + Moderation Bots |
 
