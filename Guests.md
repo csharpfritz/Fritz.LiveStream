@@ -10,6 +10,7 @@ The following are a list of scheduled guests along with their projected date and
 | Brendan Enrick | Feb 8, 2017 | Unit Testing |
 | Oren Novotny | Feb 15, 2018 | .NET Standard and PCLs |
 | Maria Naggaga | Feb 17, 2018 | Try.NET |
+| Rich Ross | Feb 20, 2018 | Azure Cognitive Services + Moderation Bots |
 
 ## Interested Guests
 
