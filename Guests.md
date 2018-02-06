@@ -7,6 +7,7 @@ The following are a list of scheduled guests along with their projected date and
 | Glenn Condron | Jan 23, 2018 | ASP.NET Core + Docker |
 | Maira Wenzel | Jan 25, 2018 | Documentation and docs.microsoft.com |
 | Sarah Dutkiewicz | Jan 27, 2018 | Web Usability |
+| Brendan Enrick | Feb 8, 2017 | Unit Testing |
 | Oren Novotny | Feb 15, 2018 | .NET Standard and PCLs |
 | Maria Naggaga | Feb 17, 2018 | Try.NET |
 
