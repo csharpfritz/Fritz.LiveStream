@@ -2,6 +2,8 @@
 
 In January 2018, the live stream hit a total of 500 followers, and met the initial follower goal Jeff set.  In return for meeting this goal, an ASP.NET Core 2.0 workshop was scheduled and would be hosted for approximately 8 hours on February 16, 2018 starting at 10am ET / 15:00 UTC
 
+![Sample view of the Live Stream](LiveStreamWithBrendan.jpg)
+
 ## Questions
 
 *  __Is there a cost to attend the workshop?__
