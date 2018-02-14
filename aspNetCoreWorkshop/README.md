@@ -28,5 +28,11 @@ In January 2018, the live stream hit a total of 500 followers, and met the initi
 * __I can't watch all day, will I be able to watch the VOD or recording on YouTube?__
    *  I'm not sure about this one yet... I'd like the content to be available, but it is going to be a LOT of video.
 
+* __What should I have installed in order to follow along with the workshop?__
+   *  You should install the .NET SDK from https://dot.net/core and it's not required, but we recommend a Visual Studio with .NET Core features enabled:
+      *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
+      *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
+      *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
+
 * __Are the samples available online?__
    *  The sample code will all be available, and will be published on the day of the workshop 
