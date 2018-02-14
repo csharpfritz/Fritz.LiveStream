@@ -1,5 +1,7 @@
 # Fritz.LiveStream
 
+![Jeff writing code on stream](images/SampleStream.jpg)
+
 Jeff Fritz writes code live on video streams, and wants to give you a central place to ask questions, find samples, and links to projects and other materials referenced during the show.
 
 ## Watch LIVE
