@@ -11,6 +11,10 @@ Jeff currently presents on the following services.  Choose the one that works fo
 
 You can find his current schedule on both services, and if you follow or subscribe to the channel you will be notified when the stream begins. 
 
+## Get the Music!
+
+Our friend Carl Franklin from [.NET Rocks](dotnetrocks.com) has graciously allowed us to play some of his [Music to Code](mtcb.pwop.com) By during the stream.  Buy the [music](mtcb.pwop.com), or get a subscription with the mobile app at www.musictoflowby.com
+
 ## Watch recordings
 
 Archive of all shows from the stream can be found on [Jeff's YouTube Fritz and Friends](https://www.youtube.com/playlist?list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy)  playlist.
