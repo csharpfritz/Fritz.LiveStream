@@ -37,3 +37,16 @@ In January 2018, the live stream hit a total of 500 followers, and met the initi
 
 * __Are the samples available online?__
    *  The sample code will all be available, and will be published on the day of the workshop 
+   
+## Tentative Schedule 
+
+| Start Time | Topic | Guest |
+| ----- | ---- | ----- |
+| 10am ET | Get Started with dotnet new and our first API | Shayne Boyer |
+| 11am ET | Using a database with Entity Framework Core | Julie Lerman |
+| 12pm ET | QA break| - |
+| 1pm ET | Razor Pages | Jon Galloway |
+| 2pm ET | Authentication and Authorization | Jon Galloway |
+| 3pm ET | Reusable UI | - |
+| 4pm ET | QA break | - |
+| 5pm ET | Deployment | Shayne Boyer |
