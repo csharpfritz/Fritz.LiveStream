@@ -33,6 +33,7 @@ In January 2018, the live stream hit a total of 500 followers, and met the initi
       *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
       *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
       *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
+   *  At the end of the day we will be using [Docker](https://docker.com), so you should install those tools if you'd like to follow along.
 
 * __Are the samples available online?__
    *  The sample code will all be available, and will be published on the day of the workshop 
