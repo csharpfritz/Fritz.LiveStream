@@ -37,8 +37,11 @@ The project we built during the workshop is the [TripTracker project](https://gi
       *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
    *  At the end of the day we will be using [Docker](https://docker.com), so you should install those tools if you'd like to follow along.
 
-* __Are the samples available online?__
-   *  The sample code will all be available, and will be published on the day of the workshop 
+* __Where can I learn more?__
+   *  My team wrote some videos for Microsoft Virtual Academy:
+      * [Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153)
+      * [Intermediate](https://mva.microsoft.com/en-US/training-courses/aspnet-core-intermediate-18154)
+      * [Advanced](https://mva.microsoft.com/en-US/training-courses/aspnet-core-advanced-18155)
    
 ## Tentative Schedule 
 
