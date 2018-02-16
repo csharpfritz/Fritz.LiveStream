@@ -2,6 +2,8 @@
 
 In January 2018, the live stream hit a total of 500 followers, and met the initial follower goal Jeff set.  In return for meeting this goal, an ASP.NET Core 2.0 workshop was scheduled and would be hosted for approximately 8 hours on February 16, 2018 starting at 10am ET / 15:00 UTC. [Add it to your calendar](https://raw.githubusercontent.com/csharpfritz/Fritz.LiveStream/master/aspNetCoreWorkshop/Fritz_and_Friends_ASPNET_Core_Workshop.ics)
 
+The project we built during the workshop is the [TripTracker project](https://github.com/csharpfritz/TripTracker) in my GitHub repository.
+
 ![Sample view of the Live Stream](LiveStreamWithBrendan.jpg)
 
 ## Questions
