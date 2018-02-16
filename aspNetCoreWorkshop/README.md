@@ -47,6 +47,6 @@ In January 2018, the live stream hit a total of 500 followers, and met the initi
 | 12pm ET | QA break| - |
 | 1pm ET | Razor Pages | Jon Galloway |
 | 2pm ET | Authentication and Authorization | Jon Galloway |
-| 3pm ET | Reusable UI | - |
-| 4pm ET | QA break | - |
+| 3pm ET | QA break | - |
+| 4pm ET | Reusable UI | - |
 | 5pm ET | Deployment | Shayne Boyer |
