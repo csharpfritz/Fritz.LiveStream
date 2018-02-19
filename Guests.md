@@ -11,7 +11,7 @@ The following are a list of scheduled guests along with their projected date and
 | WORKSHOP | Feb 16, 2018 | INTRODUCTION TO ASP.NET CORE WORKSHOP |
 | Maria Naggaga | Feb 17, 2018 | Try.NET |
 | Rich Ross | Feb 20, 2018 | Azure Cognitive Services + Moderation Bots |
-| Oren Novotny | Feb 22, 2018 | .NET Standard and PCLs |
+| Oren Novotny | Feb 22, 2018 | VSTS Continuous Integration |
 | Steve Smith | Feb 27, 2018 | Successful Software Patterns |
 
 ## Interested Guests
