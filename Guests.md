@@ -13,6 +13,7 @@ The following are a list of scheduled guests along with their projected date and
 | Rich Ross | Feb 20, 2018 | Azure Cognitive Services + Moderation Bots |
 | Oren Novotny | Feb 22, 2018 | VSTS Continuous Integration |
 | Steve Smith | Feb 27, 2018 | Successful Software Patterns |
+| Scott Hanselman | March 15, 2018 | Upgrading from MVC 5 to ASP.NET Core 2.1 |
 | Isaac Levin | TBD | Monitoring Applications |
 
 ## Interested Guests
