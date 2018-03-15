@@ -4,16 +4,16 @@ The following are a list of scheduled guests along with their projected date and
 
 | Guest | Date | Topic |
 | ----- | ---- | ----- |
-| Glenn Condron | Jan 23, 2018 | ASP.NET Core + Docker |
-| Maira Wenzel | Jan 25, 2018 | Documentation and docs.microsoft.com |
-| Sarah Dutkiewicz | Jan 27, 2018 | Web Usability |
-| Brendan Enrick | Feb 8, 2017 | Unit Testing |
+| Glenn Condron | Jan 23, 2018 | [ASP.NET Core + Docker](https://youtu.be/Oriqg6qC4hc) |
+| Maira Wenzel | Jan 25, 2018 | [Documentation and docs.microsoft.com](https://youtu.be/rZj-h9PQsi8) |
+| Sarah Dutkiewicz | Jan 27, 2018 | [Web Usability](https://youtu.be/4EChnYWY598) |
+| Brendan Enrick | Feb 8, 2017 | [Unit Testing](https://youtu.be/N0CArRHH65U) |
 | WORKSHOP | Feb 16, 2018 | INTRODUCTION TO ASP.NET CORE WORKSHOP |
-| Maria Naggaga | Feb 17, 2018 | Try.NET |
-| Rich Ross | Feb 20, 2018 | Azure Cognitive Services + Moderation Bots |
-| Oren Novotny | Feb 22, 2018 | VSTS Continuous Integration |
-| Steve Smith | Feb 27, 2018 | Successful Software Patterns |
-| Scott Hanselman | March 15, 2018 | Upgrading from MVC 5 to ASP.NET Core 2.1 |
+| Maria Naggaga | Feb 17, 2018 | [Try.NET](https://youtu.be/wZjgbJ756PM) |
+| Rich Ross | Feb 20, 2018 | [Azure Cognitive Services + Moderation Bots](https://youtu.be/7s6_d7SIrkU) |
+| Oren Novotny | Feb 22, 2018 | [VSTS Continuous Integration](https://youtu.be/cR1brXiCHXM) |
+| Steve Smith | Feb 27, 2018 | [Successful Software Patterns](https://youtu.be/LXH1gz8utZA) |
+| Scott Hanselman | March 15, 2018 | [Upgrading from MVC 5 to ASP.NET Core 2.1](https://www.youtube.com/watch?v=M_mqh739P6Y) |
 | Isaac Levin | TBD | Monitoring Applications |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
