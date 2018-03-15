@@ -15,6 +15,7 @@ The following are a list of scheduled guests along with their projected date and
 | Steve Smith | Feb 27, 2018 | Successful Software Patterns |
 | Scott Hanselman | March 15, 2018 | Upgrading from MVC 5 to ASP.NET Core 2.1 |
 | Isaac Levin | TBD | Monitoring Applications |
+| [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
 ## Interested Guests
 
