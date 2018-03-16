@@ -16,6 +16,7 @@ The following are a list of scheduled guests along with their projected date and
 | Scott Hanselman | March 15, 2018 | [Upgrading from MVC 5 to ASP.NET Core 2.1](https://www.youtube.com/watch?v=M_mqh739P6Y) |
 | Jason Bock | March 20, 2018 | Roslyn Analyzers |
 | Jonathan Carter | March 22, 2018 | Visual Studio Live Share |
+| Shayne Boyer | March 27, 2018 | LIVE AT DEVINTERSECTION ORLANDO! |
 | Isaac Levin | TBD | Monitoring Applications |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
