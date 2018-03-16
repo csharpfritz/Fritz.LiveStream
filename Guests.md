@@ -14,6 +14,7 @@ The following are a list of scheduled guests along with their projected date and
 | Oren Novotny | Feb 22, 2018 | [VSTS Continuous Integration](https://youtu.be/cR1brXiCHXM) |
 | Steve Smith | Feb 27, 2018 | [Successful Software Patterns](https://youtu.be/LXH1gz8utZA) |
 | Scott Hanselman | March 15, 2018 | [Upgrading from MVC 5 to ASP.NET Core 2.1](https://www.youtube.com/watch?v=M_mqh739P6Y) |
+| Jonathan Carter | March 22, 2018 | Visual Studio Live Share |
 | Isaac Levin | TBD | Monitoring Applications |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
