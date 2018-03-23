@@ -1,5 +1,7 @@
 # Fritz.LiveStream
 
+![Jeff writing code on stream](images/SampleStream.jpg)
+
 Jeff Fritz writes code live on video streams, and wants to give you a central place to ask questions, find samples, and links to projects and other materials referenced during the show.
 
 ## Watch LIVE
@@ -10,6 +12,10 @@ Jeff currently presents on the following services.  Choose the one that works fo
 * [Mixer](https://mixer.com/csharpfritz)
 
 You can find his current schedule on both services, and if you follow or subscribe to the channel you will be notified when the stream begins. 
+
+## Get the Music!
+
+Our friend Carl Franklin from [.NET Rocks](https://dotnetrocks.com) has graciously allowed us to play some of his [Music to Code By](http://mtcb.pwop.com)  during the stream.  Buy the [music](http://mtcb.pwop.com), or get a subscription with the mobile app at www.musictoflowby.com
 
 ## Watch recordings
 
@@ -38,3 +44,4 @@ about my scheduled guests can how you can join me as a guest on the stream can b
 
 Jeff has written about how he has the hardware configured as well as the software to produce stream [on his blog](http://jeffreyfritz.com/2017/12/live-streaming-101-my-setup/).  
 *  Jeff uses [Posh-Git](https://github.com/dahlbyk/posh-git) to make the Powershell prompt easier to navigate while working with Git repositories 
+*  When coding with a guest, Jeff and the guest use [Visual Studio Live Share](https://github.com/MicrosoftDocs/live-share/blob/master/README.md) to work on code on screen at the same time.

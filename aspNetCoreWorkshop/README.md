@@ -1,6 +1,10 @@
 # The ASP.NET Core Workshop
 
-In January 2018, the live stream hit a total of 500 followers, and met the initial follower goal Jeff set.  In return for meeting this goal, an ASP.NET Core 2.0 workshop was scheduled and would be hosted for approximately 8 hours on February 16, 2018 starting at 10am ET / 15:00 UTC
+In January 2018, the live stream hit a total of 500 followers, and met the initial follower goal Jeff set.  In return for meeting this goal, an ASP.NET Core 2.0 workshop was scheduled and would be hosted for approximately 8 hours on February 16, 2018 starting at 10am ET / 15:00 UTC. [Add it to your calendar](https://raw.githubusercontent.com/csharpfritz/Fritz.LiveStream/master/aspNetCoreWorkshop/Fritz_and_Friends_ASPNET_Core_Workshop.ics)
+
+The project we built during the workshop is the [TripTracker project](https://github.com/csharpfritz/TripTracker) in my GitHub repository.
+
+![Sample view of the Live Stream](LiveStreamWithBrendan.jpg)
 
 ## Questions
 
@@ -26,5 +30,28 @@ In January 2018, the live stream hit a total of 500 followers, and met the initi
 * __I can't watch all day, will I be able to watch the VOD or recording on YouTube?__
    *  I'm not sure about this one yet... I'd like the content to be available, but it is going to be a LOT of video.
 
-* __Are the samples available online?__
-   *  The sample code will all be available, and will be published on the day of the workshop 
+* __What should I have installed in order to follow along with the workshop?__
+   *  You should install the .NET SDK from https://dot.net/core and it's not required, but we recommend a Visual Studio with .NET Core features enabled:
+      *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
+      *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
+      *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
+   *  At the end of the day we will be using [Docker](https://docker.com), so you should install those tools if you'd like to follow along.
+
+* __Where can I learn more?__
+   *  My team wrote some videos for Microsoft Virtual Academy:
+      * [Beginner](https://mva.microsoft.com/en-US/training-courses/aspnet-core-beginner-18153)
+      * [Intermediate](https://mva.microsoft.com/en-US/training-courses/aspnet-core-intermediate-18154)
+      * [Advanced](https://mva.microsoft.com/en-US/training-courses/aspnet-core-advanced-18155)
+   
+## Tentative Schedule 
+
+| Start Time | Topic | Guest |
+| ----- | ---- | ----- |
+| 10am ET | Get Started with dotnet new and our first API | Shayne Boyer |
+| 11am ET | Using a database with Entity Framework Core | Julie Lerman |
+| 12pm ET | QA break| - |
+| 1pm ET | Razor Pages | Jon Galloway |
+| 2pm ET | Authentication and Authorization | Jon Galloway |
+| 3pm ET | QA break | - |
+| 4pm ET | Reusable UI | - |
+| 5pm ET | Deployment | Shayne Boyer |
