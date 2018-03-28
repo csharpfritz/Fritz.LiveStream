@@ -14,9 +14,9 @@ The following are a list of scheduled guests along with their projected date and
 | Oren Novotny | Feb 22, 2018 | [VSTS Continuous Integration](https://youtu.be/cR1brXiCHXM) |
 | Steve Smith | Feb 27, 2018 | [Successful Software Patterns](https://youtu.be/LXH1gz8utZA) |
 | Scott Hanselman | March 15, 2018 | [Upgrading from MVC 5 to ASP.NET Core 2.1](https://www.youtube.com/watch?v=M_mqh739P6Y) |
-| Jason Bock | March 20, 2018 | Roslyn Analyzers |
-| Jonathan Carter | March 22, 2018 | Visual Studio Live Share |
-| Shayne Boyer | March 27, 2018 | LIVE AT DEVINTERSECTION ORLANDO! |
+| Jason Bock | March 20, 2018 | [Roslyn Analyzers](https://www.youtube.com/watch?v=N5svo6N7ir0) |
+| Jonathan Carter | March 22, 2018 | [Visual Studio Live Share](https://www.youtube.com/watch?v=Z6g2l8kb1zc) |
+| Shayne Boyer | March 27, 2018 | [LIVE AT DEVINTERSECTION ORLANDO!](https://www.youtube.com/watch?v=aXkeJmlPDI4) |
 | Isaac Levin | TBD | Monitoring Applications |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
