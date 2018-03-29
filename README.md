@@ -45,3 +45,4 @@ about my scheduled guests can how you can join me as a guest on the stream can b
 Jeff has written about how he has the hardware configured as well as the software to produce stream [on his blog](http://jeffreyfritz.com/2017/12/live-streaming-101-my-setup/).  
 *  Jeff uses [Posh-Git](https://github.com/dahlbyk/posh-git) to make the Powershell prompt easier to navigate while working with Git repositories 
 *  When coding with a guest, Jeff and the guest use [Visual Studio Live Share](https://github.com/MicrosoftDocs/live-share/blob/master/README.md) to work on code on screen at the same time.
+*  Jeff uses a bunch of great Visual Studio extensions, and you can find that list on the [WebTools repository](https://github.com/csharpfritz/Ignite2017-WebTools). 
