@@ -17,6 +17,7 @@ The following are a list of scheduled guests along with their projected date and
 | Jason Bock | March 20, 2018 | [Roslyn Analyzers](https://www.youtube.com/watch?v=N5svo6N7ir0) |
 | Jonathan Carter | March 22, 2018 | [Visual Studio Live Share](https://www.youtube.com/watch?v=Z6g2l8kb1zc) |
 | Shayne Boyer | March 27, 2018 | [LIVE AT DEVINTERSECTION ORLANDO!](https://www.youtube.com/watch?v=aXkeJmlPDI4) |
+| Jon Skeet | April 10, 2018 | Date and Time handling with NodaTime |
 | Isaac Levin | TBD | Monitoring Applications |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
