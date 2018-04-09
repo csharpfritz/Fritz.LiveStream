@@ -18,8 +18,8 @@ The following are a list of scheduled guests along with their projected date and
 | Jonathan Carter | March 22, 2018 | [Visual Studio Live Share](https://www.youtube.com/watch?v=Z6g2l8kb1zc) |
 | Shayne Boyer | March 27, 2018 | [LIVE AT DEVINTERSECTION ORLANDO!](https://www.youtube.com/watch?v=aXkeJmlPDI4) |
 | Jon Skeet | April 10, 2018 | Date and Time handling with NodaTime |
+| [FierceKittenz](https://twitch.tv/fiercekittenz) | April 17, 2018 | .NET Bots + Web Development |
 | Isaac Levin | TBD | Monitoring Applications |
-| [FierceKittenz](https://twitch.tv/fiercekittenz) | TBD | .NET Bots |
 
 ## Interested Guests
 
