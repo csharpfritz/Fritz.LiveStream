@@ -22,7 +22,10 @@ The following are a list of scheduled guests along with their projected date and
 | Scott Hunter | April 25, 2018 | ASP.NET 2.1 Preview 2 |
 | -- | May 8, 2018 | LIVE FROM BUILD Conference |
 | Scott Cate | May 10, 2018 | Azure Vision API |
+| Bill Wagner | April 26, 2018 | Async and Await in C# |
 | Isaac Levin | TBD | Monitoring Applications |
+| Christina Warren | TBD | Blogging for Developers |
+| - SEVERAL GUESTS - | TBD | C# for Beginners workshop |
 
 ## Interested Guests
 
