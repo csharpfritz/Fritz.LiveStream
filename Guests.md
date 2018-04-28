@@ -20,9 +20,10 @@ The following are a list of scheduled guests along with their projected date and
 | Jon Skeet | April 10, 2018 | [Date and Time handling with NodaTime](https://youtu.be/mfsvh_IpGmw) |
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | April 17, 2018 | [.NET Bots + Web Development](https://youtu.be/zwdZ-De_TDE) |
 | Scott Hunter | April 25, 2018 | [ASP.NET Core Identity](https://youtu.be/_Dl35e-7Jt8) |
+| Bill Wagner | May 1, 2018 | Async and Await in C# |
 | -- | May 8, 2018 | LIVE FROM BUILD Conference |
 | Scott Cate | May 10, 2018 | Azure Vision API |
-| Bill Wagner | May 1, 2018 | Async and Await in C# |
+
 | Isaac Levin | TBD | Monitoring Applications |
 | Christina Warren | TBD | Blogging for Developers |
 | - SEVERAL GUESTS - | TBD | C# for Beginners workshop |
