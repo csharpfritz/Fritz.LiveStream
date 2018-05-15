@@ -51,4 +51,4 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
 | 2pm ET | Git Basics | Sara Ford |
 | 3pm ET | Latest Features and Future of C# | Mads Torgeresen |
 | 4pm ET | SOLID Design | Phil Japikse |
-| 5pm ET | Span<T> and Friends | Immo Landwerth |
+| 5pm ET | Span&lt;T&gt; and Friends | Immo Landwerth |
