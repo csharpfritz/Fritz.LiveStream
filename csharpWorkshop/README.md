@@ -44,7 +44,7 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
 
 | Start Time | Topic | Guest |
 | ----- | ---- | ----- |
-| 10am ET | Welcome and setup walkthrough | Maria? |
+| 10am ET | Welcome and setup walkthrough | - |
 | 11am ET | Classes, Interfaces, and the basics | Sarah Dutkiewicz |
 | 12pm ET | Extension methods and static class features | Steve Smith |
 | 1pm ET | C# 5 / 6 features | Bill Wagner |
