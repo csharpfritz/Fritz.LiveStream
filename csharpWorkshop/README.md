@@ -6,8 +6,6 @@ This is the first of a series of workshops that I am writing and will be present
 
 This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 10am ET / 7am PT / 14:00 UTC / 8pm IST.
 
-We will build the <PROJECT NAME TO COME> Console Application as part of this effort.  The source code is available here on GitHub at:  <URL TO COME>
-
 ## Questions about the Workshop
 
 *  __Is there a cost to attend the workshop?__
@@ -17,19 +15,17 @@ We will build the <PROJECT NAME TO COME> Console Application as part of this eff
    *  Bring all of your friends!  It would be better if they each logged in to Twitch  individually, so that they can ask questions during the workshop
 
 *  __What content are you covering?__
-   *  We will build a simple command-line application using C# and .NET Core.
+   *  We will review a series of designed examples using C# and .NET Core to demonstrate all of the various features of the C# language.  Additionally, we will learn how to use Git source control, good application design patterns, and the latest memory management features of .NET Core
 
 *  __Is this just Jeff presenting, or will there be guests during the workshop?__
    *  There will be guests!  I've recruited a handful of .NET experts to help during the day:
-      * Bill Wagner  [confirmed]
-      * Sara Ford    [confirmed]
-      * Kathleen Dollard
+      * Bill Wagner
+      * Sara Ford
       * Mads Torgersen
-      * Mahesh Chand
+      * Steve Smith
       * Sarah Dutkiewicz
-      * 
-      * ... and a surprise guest or two
-      <!-- Introduction from Anders?  -->
+      * Phil Japikse
+      * Immo Landwerth
 
 * __I can't watch all day, will I be able to watch the VOD or recording on YouTube?__
    *  You betcha!  The content will be available for roughly 60 days on Twitch, and we will place videos on YouTube.  
@@ -41,18 +37,18 @@ We will build the <PROJECT NAME TO COME> Console Application as part of this eff
       *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
 
 * __Where can I learn more?__
-   * <NEEDED - VIRTUAL ACADEMY LINKS>  
+   * Links to come! 
 
 
 ## Tentative Schedule 
 
 | Start Time | Topic | Guest |
 | ----- | ---- | ----- |
-| 10am ET | Welcome and setup walkthrough |  |
-| 11am ET | Classes, Interfaces, and the basics |  |
-| 12pm ET | Loops and Conditionals | - |
-| 1pm ET | ? |  |
+| 10am ET | Welcome and setup walkthrough | Maria? |
+| 11am ET | Classes, Interfaces, and the basics | Sarah Dutkiewicz |
+| 12pm ET | LINQ & C# 4 features | Steve Smith |
+| 1pm ET | Async & C# 5 / 6 features | Bill Wagner |
 | 2pm ET | Git Basics | Sara Ford |
-| 3pm ET | ? |  |
-| 4pm ET | ? |  |
-| 5pm ET | Latest Features and Future of C# | Mads Torgeresen |
+| 3pm ET | Latest Features and Future of C# | Mads Torgeresen |
+| 4pm ET | SOLID Design | Phil Japikse |
+| 5pm ET | Span<T> and Friends | Immo Landwerth |
