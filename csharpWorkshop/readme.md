@@ -1,3 +1,0 @@
-# C# workshop
-
-Detail about the upcoming workshop...
