@@ -46,8 +46,8 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
 | ----- | ---- | ----- |
 | 10am ET | Welcome and setup walkthrough | Maria? |
 | 11am ET | Classes, Interfaces, and the basics | Sarah Dutkiewicz |
-| 12pm ET | LINQ & C# 4 features | Steve Smith |
-| 1pm ET | Async & C# 5 / 6 features | Bill Wagner |
+| 12pm ET | Extension methods and static class features | Steve Smith |
+| 1pm ET | C# 5 / 6 features | Bill Wagner |
 | 2pm ET | Git Basics | Sara Ford |
 | 3pm ET | Latest Features and Future of C# | Mads Torgeresen |
 | 4pm ET | SOLID Design | Phil Japikse |
