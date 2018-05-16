@@ -31,6 +31,7 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
    *  You betcha!  The content will be available for roughly 60 days on Twitch, and we will place videos on YouTube.  
 
 * __What should I have installed in order to follow along with the workshop?__
+   *  If you can't install any tools, you can try these features and follow along using [Try.NET](https://try.dot.net/)
    *  You should install the .NET SDK from https://dot.net/core and it's not required, but we recommend a Visual Studio with .NET Core features enabled:
       *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
       *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
