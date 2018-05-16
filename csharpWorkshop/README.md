@@ -37,7 +37,7 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
       *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
 
 * __Where can I learn more?__
-   * Links to come! 
+   * [CSharp Language Wiki](https://github.com/dotnet/csharplang/wiki)
 
 
 ## Tentative Schedule 
