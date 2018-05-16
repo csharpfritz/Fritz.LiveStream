@@ -39,6 +39,7 @@ This workshop is tentatively scheduled for 8 hours starting on May 18, 2018 at 1
 
 * __Where can I learn more?__
    * [CSharp Language Wiki](https://github.com/dotnet/csharplang/wiki)
+   * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
 
 
 ## Tentative Schedule 
