@@ -4,7 +4,7 @@ In April 2018, I wanted to take the next steps in evolving our live coding sessi
 
 This is the first of a series of workshops that I am writing and will be presenting with groups of technologists.  I promise you dear reader, every one of these will be completely free to watch, download, access the samples of, and participate in when they are published live.  I plan to deliver a full workshop every other month to start, on a new topic each month.
 
-This workshop is scheduled for 8 hours starting on May 18, 2018 at 10am ET / 7am PT / 14:00 UTC / 8pm IST.
+This workshop is scheduled for 8 hours starting on May 18, 2018 at 10am ET / 7am PT / 14:00 UTC / 8pm IST. [Download a calendar reminder](https://github.com/csharpfritz/Fritz.LiveStream/tree/master/csharpWorkshop)  Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
 
 ## Questions about the Workshop
 
