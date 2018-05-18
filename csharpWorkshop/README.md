@@ -48,6 +48,9 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
    * __Git__
      * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
    * __More from Steve Smith__
+     * [ExtensionMethodSamples GitHub Repo](https://github.com/ardalis/ExtensionMethodSample)
+     * [GuardClauses Episode](http://www.weeklydevtips.com/004)
+     * [Ardalis.GuardClauses Nuget Package GitHub Repo](https://github.com/ardalis/GuardClauses)
      * [Principles of Object Oriented Design Pluralsight Course](https://pluralsight.com/courses/principles-oo-design)
      * [Ardalis.com](https://ardalis.com)
      * [WeeklyDevTips Podcast](https://weeklydevtips.com)
