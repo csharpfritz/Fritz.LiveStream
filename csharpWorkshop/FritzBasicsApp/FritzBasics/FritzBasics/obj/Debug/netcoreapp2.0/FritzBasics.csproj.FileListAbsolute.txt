@@ -1,0 +1,11 @@
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\bin\Debug\netcoreapp2.0\FritzBasics.deps.json
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\bin\Debug\netcoreapp2.0\FritzBasics.runtimeconfig.json
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\bin\Debug\netcoreapp2.0\FritzBasics.runtimeconfig.dev.json
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\bin\Debug\netcoreapp2.0\FritzBasics.dll
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\bin\Debug\netcoreapp2.0\FritzBasics.pdb
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.csprojAssemblyReference.cache
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.csproj.CoreCompileInputs.cache
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.AssemblyInfoInputs.cache
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.AssemblyInfo.cs
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.dll
+D:\code\FritzBasicsApp\FritzBasics\FritzBasics\obj\Debug\netcoreapp2.0\FritzBasics.pdb
