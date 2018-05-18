@@ -46,13 +46,15 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
      * [CSharp Language Wiki](https://github.com/dotnet/csharplang/wiki)
    * __Git__
      * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
-   * __More from Scott Hanselman__
-     * [Hanselman.com](https://hanselman.com/blog)
+   * __More from Steve Smith__
+     * [Principles of Object Oriented Design Pluralsight Course](https://pluralsight.com/courses/principles-oo-design)
    * __More from Phil Japikse__
      * [Lynda.com videos](http://bit.ly/skimediclyndacourses)
      * [Apress books](http://bit.ly/apressbooks)
      * [Blog](http://www.skimedic.com/blog)
      * [Twitter](http://twitter.com/skimedic)
+   * __More from Scott Hanselman__
+     * [Hanselman.com](https://hanselman.com/blog)
 
 
 ## Tentative Schedule 
@@ -67,4 +69,4 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
 | 3pm ET | Latest Features and Future of C# | Mads Torgeresen |
 | 4pm ET | SOLID Design | Phil Japikse |
 | 5pm ET | Span&lt;T&gt; and Friends | Immo Landwerth |
-| 6pm ET | C# with a Raspberry Pi | Scott Hanselman |
+| 6pm ET | C# and Pi - Big Things in Small Places | Scott Hanselman |
