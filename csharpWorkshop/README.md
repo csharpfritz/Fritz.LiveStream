@@ -48,6 +48,8 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
      * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
    * __More from Steve Smith__
      * [Principles of Object Oriented Design Pluralsight Course](https://pluralsight.com/courses/principles-oo-design)
+     * [Ardalis.com](https://ardalis.com)
+     * [WeeklyDevTips Podcast](https://weeklydevtips.com)
    * __More from Phil Japikse__
      * [Lynda.com videos](http://bit.ly/skimediclyndacourses)
      * [Apress books](http://bit.ly/apressbooks)
