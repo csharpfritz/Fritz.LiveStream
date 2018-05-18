@@ -36,6 +36,7 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
 
 * __What should I have installed in order to follow along with the workshop?__
    *  If you can't install any tools, you can try these features and follow along using [Try.NET](https://try.dot.net/)
+      * To follow along with Sadukie in the basics part, copy [this gist](https://gist.github.com/sadukie/bf1f6f5339e92e322c1eb4f44c7ebfa0) into the Try.NET window to get started.
    *  You should install the .NET SDK from https://dot.net/core and it's not required, but we recommend a Visual Studio with .NET Core features enabled:
       *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
       *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
