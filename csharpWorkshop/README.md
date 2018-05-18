@@ -46,6 +46,13 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
      * [CSharp Language Wiki](https://github.com/dotnet/csharplang/wiki)
    * __Git__
      * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
+   * __More from Scott Hanselman__
+     * [Hanselman.com](https://hanselman.com/blog)
+   * __More from Phil Japikse__
+     * [Lynda.com videos](http://bit.ly/skimediclyndacourses)
+     * [Apress books](http://bit.ly/apressbooks)
+     * [Blog](http://www.skimedic.com/blog)
+     * [Twitter](http://twitter.com/skimedic)
 
 
 ## Tentative Schedule 
