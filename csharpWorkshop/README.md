@@ -28,6 +28,8 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
       * Sarah Dutkiewicz
       * Phil Japikse
       * Immo Landwerth
+      * Maria Naggaga
+      * Scott Hanselman
 
 * __I can't watch all day, will I be able to watch the VOD or recording on YouTube?__
    *  You betcha!  The content will be available for roughly 60 days on Twitch, and we will place videos on YouTube.  
@@ -50,7 +52,7 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
 
 | Start Time | Topic | Guest |
 | ----- | ---- | ----- |
-| 10am ET | Welcome, setup, introducing .NET | - |
+| 10am ET | Welcome, setup, introducing .NET | Maria Naggaga |
 | 11am ET | Classes, Interfaces, and the basics | Sarah Dutkiewicz |
 | 12pm ET | Extension methods and static class features | Steve Smith |
 | 1pm ET | C# 5 / 6 features | Bill Wagner |
@@ -58,3 +60,4 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
 | 3pm ET | Latest Features and Future of C# | Mads Torgeresen |
 | 4pm ET | SOLID Design | Phil Japikse |
 | 5pm ET | Span&lt;T&gt; and Friends | Immo Landwerth |
+| 6pm ET | C# with a Raspberry Pi | Scott Hanselman |
