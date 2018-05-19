@@ -157,7 +157,8 @@ namespace FritzBasics
             // Put the randomness here
             // Who will go first - Eagles (Jeff's team) or Browns (Sadukie's team)?
             Random random = new Random();
-            int coinFlip = random.Next(0, 1);
+            // We want to choose either 0 or 1.  The Next() method includes the lower bounds but excludes the upper bounds.
+            int coinFlip = random.Next(0, 2);
             // The question mark (?) is known as a "ternary operator"
             // This is a shortcut for saying "if this condition, then use this value; otherwise use this"
             // In our case, if the value is 0, set the team to Browns otherwise set the team to Eagles.
