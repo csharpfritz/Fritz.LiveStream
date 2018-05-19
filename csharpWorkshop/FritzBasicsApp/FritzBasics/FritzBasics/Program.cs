@@ -12,8 +12,6 @@ namespace FritzBasics
             // With this instance, we can access any methods in FritzApp with the 
             // "public" access modifier.
             myApp.Run();
-            Console.WriteLine("Closing....");
-            Console.ReadKey();
         }
     }
 }

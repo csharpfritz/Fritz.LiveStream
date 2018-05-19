@@ -226,6 +226,67 @@ namespace FritzBasics
         {
             // Let's talk about planet objects and values
             // Lots of statistics at https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+
+            // We are not using IEnumerable, as we want to add to our collection
+            // IEnumerable only allows us to go forward through a collection
+            // We need to create a collection of planets and add to it
+            // We are using List, which does implement IEnumerable
+            // However, List also allows us to add and remove items
+
+            List<Planet> solarSystem = new List<Planet>();
+            solarSystem.Add(new Planet("Mars", 0.642));
+            solarSystem.Add(new Planet("Earth")); // What will default Mass be?
+            solarSystem.Add(new Planet()); // What will this look like when we list them?
+            solarSystem.Add(new Planet("Mercury",0.330));
+
+            // We can use foreach to loop through our collection
+            // \t is separating the properties with a tab
+            PrintPlanets(solarSystem);
+            
+            // How do we remove the nameless planet?
+            // We cannot use a foreach in this case, because foreach
+            // does not allow us to change the collection size inside.
+            // We can use something called LINQ to find the item in our collection
+            // The part in the Find can be read as - 
+            // "Find a planet where ethe planet name is equal to empty string"
+            // This type of expression is known as a "lambda expression"
+            Planet emptyPlanet = solarSystem.Find(planet => planet.Name == "");
+            // Once we find the planet, let's remove it.
+            solarSystem.Remove(emptyPlanet);
+            PrintPlanets(solarSystem);
+
+            // Wait - why didn't that work?
+            // Set a breakpoint on the Remove statement
+            // Start the debugger
+            // Look carefully at the planets in solar system
+            // What is that value?  Let's update our search for our empty planet
+            emptyPlanet = solarSystem.Find(planet => planet.Name == null);
+            // Once we find the planet, let's remove it.
+            solarSystem.Remove(emptyPlanet);
+            // And let's make sure it's really gone this time
+            PrintPlanets(solarSystem);
+
+
+            Console.WriteLine("=====================");
+
+        }
+
+        private void PrintPlanets(IEnumerable<Planet> planetList)
+        {
+            // Print headers
+            Console.WriteLine($"Name\tMass");
+            Console.WriteLine("=====================");
+            // We are using the foreach here for simplicity's sake
+            // We created this method so that we aren't repeating code
+            // We are using IEnumerable so that we can pass in
+            // any collection of planets that implements the functionality
+            // of the IEnumerable interface.
+            // The IEnumerable interface allows us to loop through using 
+            // its enumerator.
+            foreach (Planet planet in planetList)
+            {
+                Console.WriteLine($"{planet.Name}\t{planet.Mass}");
+            }
         }
 
     }
