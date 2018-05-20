@@ -41,10 +41,12 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
       *  [Visual Studio Code](https://code.visualstudio.com) - Free and open source for Mac, Linux, and Windows
       *  [Visual Studio 2017](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
       *  [Visual Studio for Mac](https://visualstudio.com) - Community is free for hobbyists, students, and startups (with limitations).
-
 * __Where can I learn more?__
    * __CSharp__
      * [CSharp Language Wiki](https://github.com/dotnet/csharplang/wiki)
+     * [C# quickstarts - docs.microsoft.com](https://docs.microsoft.com/dotnet/csharp/quick-starts/)
+     * [A tour of the C# Language - docs.microsoft.com](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/)
+     * [C# Tutorialis - docs.microsoft.com](https://docs.microsoft.com/dotnet/csharp/tutorials/)
    * __Git__
      * [Git For Humans](https://www.amazon.com/Git-Humans-David-Demaree/dp/1937557383)
      * [GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -62,6 +64,10 @@ Join us on [Twitch](https://www.twitch.tv/events/FkW7cJ5WStWVhBKbY4Ozbg)
      * [Principles of Object Oriented Design Pluralsight Course](https://pluralsight.com/courses/principles-oo-design)
      * [Ardalis.com](https://ardalis.com)
      * [WeeklyDevTips Podcast](https://weeklydevtips.com)
+   * __More from Bill Wagner__
+     * [What's new in C#](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/)
+     * [String Interpolation Sample - Github](https://github.com/dotnet/samples/tree/master/snippets/csharp/tutorials/string-interpolation)
+     * [Updates to FritzStreamTools - Pull Request](https://github.com/csharpfritz/Fritz.StreamTools/pull/112)
    * __More from Phil Japikse__
      * [Lynda.com videos](http://bit.ly/skimediclyndacourses)
      * [Apress books](http://bit.ly/apressbooks)
