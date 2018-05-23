@@ -7,6 +7,7 @@ This is the first of a series of workshops that I am writing and will be present
 This workshop is scheduled for 8 hours starting on May 18, 2018 at 10am ET / 7am PT / 14:00 UTC / 8pm IST. [Download a calendar reminder](https://cdn.rawgit.com/csharpfritz/Fritz.LiveStream/master/csharpWorkshop/Fritz_and_Friends_Csharp_Workshop.ics)  
 
 *  Watch the replay on [Twitch](https://www.twitch.tv/videos/262711576)
+*  Catch the [entire event as a playlist on YouTube](https://www.youtube.com/watch?list=PLVMqA0_8O85zIiU-T5h6rn8ortqEUNCeK&v=9ZmZuUSqQUM)
 
 ## Questions about the Workshop
 
