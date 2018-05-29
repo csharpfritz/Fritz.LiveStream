@@ -23,9 +23,10 @@ The following are a list of scheduled guests along with their projected date and
 | Bill Wagner | May 1, 2018 | [Async and Await in C#](https://www.youtube.com/watch?v=udb8JBEdS9) |
 | -- | May 8, 2018 | LIVE FROM BUILD Conference |
 | Scott Cate | May 10, 2018 | Azure Vision API |
-| Isaac Levin | TBD | Monitoring Applications |
+| [- SEVERAL GUESTS -](https://github.com/csharpfritz/Fritz.LiveStream/tree/master/csharpWorkshop) | May 18, 2018 | [C# for Beginners workshop](https://www.youtube.com/watch?v=9ZmZuUSqQUM&index=2&list=PLVMqA0_8O85zIiU-T5h6rn8ortqEUNCeK) |
+| Amanda Lange | June 5, 2018 | Game Development with Unity - Building a pinball game |
+| Isaac Levin | June 14, 2018 | Monitoring Applications |
 | Christina Warren | TBD | Blogging for Developers |
-| - SEVERAL GUESTS - | May 18, 2018 | C# for Beginners workshop |
 
 ## Interested Guests
 
