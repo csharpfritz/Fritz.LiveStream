@@ -21,11 +21,12 @@ The following are a list of scheduled guests along with their projected date and
 | [FierceKittenz](https://twitch.tv/fiercekittenz) | April 17, 2018 | [.NET Bots + Web Development](https://youtu.be/zwdZ-De_TDE) |
 | Scott Hunter | April 25, 2018 | [ASP.NET Core Identity](https://youtu.be/_Dl35e-7Jt8) |
 | Bill Wagner | May 1, 2018 | [Async and Await in C#](https://www.youtube.com/watch?v=udb8JBEdS9) |
-| -- | May 8, 2018 | LIVE FROM BUILD Conference |
-| Scott Cate | May 10, 2018 | Azure Vision API |
+| Mads Torgersen | May 8, 2018 | [Build 2018 - Latest C# features](https://www.youtube.com/watch?v=Wlw_nIzKqM0&index=19&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=2416s) |
+| Scott Cate | May 10, 2018 | [Azure Vision API](https://www.youtube.com/watch?v=p0ZZ2lDdO1w&index=16&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=1236s) |
 | [- SEVERAL GUESTS -](https://github.com/csharpfritz/Fritz.LiveStream/tree/master/csharpWorkshop) | May 18, 2018 | [C# for Beginners workshop](https://www.youtube.com/watch?v=9ZmZuUSqQUM&index=2&list=PLVMqA0_8O85zIiU-T5h6rn8ortqEUNCeK) |
-| Amanda Lange | June 5, 2018 | Game Development with Unity - Building a pinball game |
+| Amanda Lange | June 5, 2018 | [Game Development with Unity](https://www.youtube.com/watch?v=g4iGpL_OftQ&index=3&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=0s) |
 | Isaac Levin | June 14, 2018 | Monitoring Applications |
+| Amanda Iverson | June 19, 2018 | CoreWiki improvements |
 | Christina Warren | TBD | Blogging for Developers |
 
 ## Interested Guests
