@@ -27,6 +27,7 @@ The following are a list of scheduled guests along with their projected date and
 | Amanda Lange | June 5, 2018 | [Game Development with Unity](https://www.youtube.com/watch?v=g4iGpL_OftQ&index=3&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=0s) |
 | Isaac Levin | June 14, 2018 | Monitoring Applications |
 | Amanda Iverson | June 19, 2018 | CoreWiki improvements |
+| Rachel Appel | June 21, 2018 | SignalR, ASP.NET Core, and Shenanigans |
 | Christina Warren | TBD | Blogging for Developers |
 
 ## Interested Guests
