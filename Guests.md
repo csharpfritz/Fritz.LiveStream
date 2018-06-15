@@ -29,6 +29,8 @@ The following are a list of scheduled guests along with their projected date and
 | Amanda Iverson | June 19, 2018 | CoreWiki improvements |
 | Rachel Appel | June 21, 2018 | SignalR, ASP.NET Core, and Shenanigans |
 | Christina Warren | TBD | Blogging for Developers |
+| Iris Classon | TBD | |
+| Glenn Block | TBD | |
 
 ## Interested Guests
 
