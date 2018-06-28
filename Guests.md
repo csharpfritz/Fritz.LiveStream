@@ -28,9 +28,11 @@ The following are a list of scheduled guests along with their projected date and
 | Isaac Levin | June 14, 2018 | Monitoring Applications |
 | Amanda Iverson | June 19, 2018 | CoreWiki improvements |
 | Rachel Appel | June 21, 2018 | SignalR, ASP.NET Core, and Shenanigans |
+| Rocky Lhotka | July 17, 2018 | CSLA |
 | Christina Warren | TBD | Blogging for Developers |
 | Iris Classon | TBD | |
 | Glenn Block | TBD | |
+
 
 ## Interested Guests
 
