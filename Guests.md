@@ -29,7 +29,8 @@ The following are a list of scheduled guests along with their projected date and
 | Amanda Iverson | June 19, 2018 | CoreWiki improvements |
 | Rachel Appel | June 21, 2018 | SignalR, ASP.NET Core, and Shenanigans |
 | Rocky Lhotka | July 17, 2018 | CSLA |
-| Benjamin Howarth | July 26, 2018 | Frontend Web Performance |
+| Ryan Lowdermilk | July 31, 2018 | JavaScript, Functions, and the Twitter API |
+| Benjamin Howarth | August 2, 2018 | Frontend Web Performance |
 | Christina Warren | TBD | Blogging for Developers |
 | Iris Classon | TBD | |
 | Glenn Block | TBD | |
