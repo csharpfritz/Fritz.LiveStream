@@ -6,12 +6,9 @@ Jeff Fritz writes code live on video streams, and wants to give you a central pl
 
 ## Watch LIVE
 
-Jeff currently presents on the following services.  Choose the one that works for you:
+Jeff currently presents on [Twitch](https://twitch.tv/csharpfritz)
 
-* [Twitch](https://twitch.tv/csharpfritz)
-* [Mixer](https://mixer.com/csharpfritz)
-
-You can find his current schedule on both services, and if you follow or subscribe to the channel you will be notified when the stream begins. 
+You can find his current schedule on the Twitch channel's page, and if you follow or subscribe to the channel you will be notified when the stream begins. 
 
 ## Get the Music!
 
@@ -31,9 +28,13 @@ The list of [currently outstanding questions](https://github.com/csharpfritz/Fri
 
 Jeff has been working on the following projects on stream:
 
+* [Fritz.StreamTools](https://github.com/csharpfritz/Fritz.StreamTools) - (Formerly called RunDown) An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content.
+* [Fritz.CoreWiki](https://github.com/csharpfritz/CoreWiki) - An ASP.NET Core based content management system that has been built from scratch as a learner's project on stream.
+
+## Former Projects
+
 * [Fritz.ConfigurationBuilders](https://github.com/csharpfritz/Fritz.ConfigurationBuilders) - A collection of ConfigurationBuilders for .NET 4.7.1 and later that support loading application configuration from other sources include INI, YML, and RSS
 * [Fritz.EpicBuildMusic](https://github.com/csharpfritz/Fritz.EpicBuildMusic) - A Visual Studio extension that is designed to make working in Visual Studio a little more fun.
-* [Fritz.StreamTools](https://github.com/csharpfritz/Fritz.StreamTools) - (Formerly called RunDown) An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content.
 
 ## Guests
 
