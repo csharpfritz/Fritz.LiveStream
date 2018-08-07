@@ -29,7 +29,7 @@ The list of [currently outstanding questions](https://github.com/csharpfritz/Fri
 Jeff has been working on the following projects on stream:
 
 * [Fritz.StreamTools](https://github.com/csharpfritz/Fritz.StreamTools) - (Formerly called RunDown) An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content.
-* [Fritz.CoreWiki](https://github.com/csharpfritz/CoreWiki) - An ASP.NET Core based content management system that has been built from scratch as a learner's project on stream.
+* [CoreWiki](https://github.com/csharpfritz/CoreWiki) - An ASP.NET Core based content management system that has been built from scratch as a learner's project on stream.
 
 ## Former Projects
 
