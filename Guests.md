@@ -31,10 +31,6 @@ The following are a list of scheduled guests along with their projected date and
 | Rocky Lhotka | July 17, 2018 | CSLA |
 | Ryan Lowdermilk | July 31, 2018 | JavaScript, Functions, and the Twitter API |
 | Benjamin Howarth | August 2, 2018 | Frontend Web Performance |
-| Christina Warren | TBD | Blogging for Developers |
-| Iris Classon | TBD | |
-| Glenn Block | TBD | |
-
 
 ## Interested Guests
 
