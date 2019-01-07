@@ -25,12 +25,19 @@ The following are a list of scheduled guests along with their projected date and
 | Scott Cate | May 10, 2018 | [Azure Vision API](https://www.youtube.com/watch?v=p0ZZ2lDdO1w&index=16&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=1236s) |
 | [- SEVERAL GUESTS -](https://github.com/csharpfritz/Fritz.LiveStream/tree/master/csharpWorkshop) | May 18, 2018 | [C# for Beginners workshop](https://www.youtube.com/watch?v=9ZmZuUSqQUM&index=2&list=PLVMqA0_8O85zIiU-T5h6rn8ortqEUNCeK) |
 | Amanda Lange | June 5, 2018 | [Game Development with Unity](https://www.youtube.com/watch?v=g4iGpL_OftQ&index=3&list=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy&t=0s) |
-| Isaac Levin | June 14, 2018 | Monitoring Applications |
-| Amanda Iverson | June 19, 2018 | CoreWiki improvements |
-| Rachel Appel | June 21, 2018 | SignalR, ASP.NET Core, and Shenanigans |
-| Rocky Lhotka | July 17, 2018 | CSLA |
-| Ryan Lowdermilk | July 31, 2018 | JavaScript, Functions, and the Twitter API |
-| Benjamin Howarth | August 2, 2018 | Frontend Web Performance |
+| Isaac Levin | June 14, 2018 | [Monitoring Applications](https://www.youtube.com/watch?v=m4LW95T7TQE) |
+| Amanda Iverson | June 19, 2018 | [CoreWiki improvements](https://www.youtube.com/watch?v=cSHeFgqH4zc) |
+| Rachel Appel | June 21, 2018 | [SignalR, ASP.NET Core, and Shenanigans](https://www.youtube.com/watch?v=tOJfJfTfedg) |
+| Rocky Lhotka | July 17, 2018 | [CSLA](https://www.youtube.com/watch?v=ozFf-ENOu_Y) |
+| Ryan Lowdermilk | July 31, 2018 | [JavaScript, Functions, and the Twitter API](https://www.youtube.com/watch?v=BdeQfsk19oQ) |
+| Benjamin Howarth | August 2, 2018 | [Frontend Web Performance](https://www.youtube.com/watch?v=svp5HbIGXzU) |
+| Carl Franklin and Richard Campbell | August 15, 2018 | [.NET Rocks podcast recording](https://www.youtube.com/watch?v=WQ_3-bmfs70) |
+| Javier Lozano | September 11, 2018 | [Real World ASP.NET Core](https://www.youtube.com/watch?v=p4WpCw-uJWs) |
+| Kathleen Dollard | September 13, 2018 | [The Legacy of Code](https://www.youtube.com/watch?v=7mS08szgpJM) |
+| Mark Miller | September 21, 2018 | [New Coderush features](https://www.youtube.com/watch?v=YjOrYDICAHc) |
+| Rich Ross | October 11, 2018 | [Cognitive Services, QnAMaker](https://www.youtube.com/watch?v=zy8iK3DTswM) |
+| Suz Hinton | December 6, 2018 | [LIVE From DevIntersection - IoT and the Cloud](https://www.youtube.com/watch?v=gzPyMkiYdu4&t=1s) |
+| Elizabeth Schneider | January 6, 2019 | [Algorithms and refactoring OilTankVision](https://www.youtube.com/watch?v=2vnRkEeia1E) |
 
 ## Interested Guests
 
