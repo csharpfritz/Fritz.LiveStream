@@ -38,6 +38,7 @@ The following are a list of scheduled guests along with their projected date and
 | Rich Ross | October 11, 2018 | [Cognitive Services, QnAMaker](https://www.youtube.com/watch?v=zy8iK3DTswM) |
 | Suz Hinton | December 6, 2018 | [LIVE From DevIntersection - IoT and the Cloud](https://www.youtube.com/watch?v=gzPyMkiYdu4&t=1s) |
 | Elizabeth Schneider | January 6, 2019 | [Algorithms and refactoring OilTankVision](https://www.youtube.com/watch?v=2vnRkEeia1E) |
+| Dave Glick | January 10, 2019 | [Discover.NET, Static Websites, Supporting OSS](https://www.youtube.com/watch?v=L2wgo8ODljA) |
 
 ## Interested Guests
 
