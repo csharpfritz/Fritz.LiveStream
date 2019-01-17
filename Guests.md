@@ -39,6 +39,7 @@ The following are a list of scheduled guests along with their projected date and
 | Suz Hinton | December 6, 2018 | [LIVE From DevIntersection - IoT and the Cloud](https://www.youtube.com/watch?v=gzPyMkiYdu4&t=1s) |
 | Elizabeth Schneider | January 6, 2019 | [Algorithms and refactoring OilTankVision](https://www.youtube.com/watch?v=2vnRkEeia1E) |
 | Dave Glick | January 10, 2019 | [Discover.NET, Static Websites, Supporting OSS](https://www.youtube.com/watch?v=L2wgo8ODljA) |
+| Brady Gaster | January 15, 2019 | [Elgato Stream Deck SDK, Packaging .NET Core project template](https://www.youtube.com/watch?v=0UkWRP0wtGY) |
 
 ## Interested Guests
 
