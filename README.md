@@ -31,6 +31,11 @@ Jeff has been working on the following projects on stream:
 * [Fritz.StreamTools](https://github.com/csharpfritz/Fritz.StreamTools) - (Formerly called RunDown) An ASP.NET Core project that will manage show information for streamers and provide easy browser-based plugins for your video content.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - An ASP.NET Core based content management system that has been built from scratch as a learner's project on stream.
 * [OilTankVision](https://github.com/csharpfritz/OilTankVision) - An IoT and Azure project that uses a Raspberry Pi to convert an analog oil-tank meter into a digital one.
+* [StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) - A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
+* [StreamDeckEmulator](https://github.com/FritzAndFriends/StreamDeckEmulator) - A simple emulator for the Stream Deck Application to allow plugin developers to test their plugins
+* [StreamDeckDashboard](https://github.com/FritzAndFriends/StreamDeckDashboard) - A collection of stream deck actions in a single plugin for developers
+* [CheerGraffiti](https://github.com/FritzAndFriends/CheerGraffiti) - 
+A set of tools for parsing and reporting on cheer graffiti from the Fritz and Friends streams
 
 ## Former Projects
 
