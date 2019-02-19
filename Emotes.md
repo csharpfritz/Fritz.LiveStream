@@ -3,7 +3,7 @@
   - [x] Clippy w/ Rainbow beard
   - [x] "And Then" - THANK YOU @FierceKittenz!
   - [ ] "Distracted squirrel" - Mrs. CSharpFritz is working on this one
-  - [ ] Octokat w/ rainbow beard
+  - [x] Octokat w/ rainbow beard
   - [ ] .NET Raccoon
   - [ ] "Hype" -- Bot holding "Hype"
   - [ ] dotNetBot holding a heart
@@ -11,7 +11,7 @@
   - [ ] Cartooned C#
   - [ ] Do The Thing
   - [ ] Works on my machine
-  - [ ] Gritty
+  - [x] Gritty
   - [ ] Stream Deck
   - [ ] Broken keyboard
   - [ ] Headphones
